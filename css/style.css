@@ -1,0 +1,88 @@
+@import url(./fonts.css);
+@import url(./partials/_variables.css);
+@import url(./partials/_global.css);
+/*Logo*/
+.header_area .main-menu .navbar .navbar-brand{
+    padding: 0 2rem 0 5rem;
+    color: rgb(21, 146, 10);    
+}
+
+.header_area .main-menu .navbar{
+    padding: 1rem 6rem;
+}
+/*Logo*/
+/*Main menu*/
+.header_area .main-menu .nav-item {
+    font: normal 500 15px/2px var(--chelsea);
+    padding: 1.6rem;
+    color: var(--title-color);
+}
+
+.header_area .main-menu .navbar-nav  a.active{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.header_area .main-menu .navbar-nav a:hover{
+    background: var(--gradient-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+/*Main menu*/
+/*Banner*/
+.site-main .site-banner .site-title h3{
+    padding-top: 35%;
+    font-weight: 500;
+}
+.site-main .site-banner .site-title h1{
+    font-size: 3rem;
+}
+.site-main .site-banner .site-title h4{
+    font-size: 1.5rem;
+}
+.site-main .site-banner .banner-image > img{
+    padding: 6rem 0;
+    width: 80%;
+}
+
+/*Banner*/
+/*About*/
+.site-main .about-area{
+    padding: 8rem 5rem;
+}
+.site-main .about-area .about-title h2 > span{
+    display: block;
+    font: normal bold 35px/ 60px var(--chelsea);
+    letter-spacing: 13px;
+}
+.site-main .about-area .about-title .paragraph > p{
+    padding: .4rem 0;
+}
+/*About*/
+/*career*/
+.site-main .career-area .career-title h2 > span{
+    padding: 2rem;
+    display: block;
+    font: normal bold 35px/ 60px var(--chelsea);
+    letter-spacing: 13px;
+}
+.site-main .career-area .career-branch > img{
+    padding: 0rem 4rem;
+    width: 100%;
+}
+/*career*/
+/*Tech*/
+.site-main .tech-area .tech-title h2 > span{
+    padding: 2rem;
+    display: block;
+    font: normal bold 35px/ 60px var(--chelsea);
+    letter-spacing: 13px;
+}
+.site-main .tech-area img{
+ width: 100%;
+ height: auto;
+}
+/*Tech*/
