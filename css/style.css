@@ -13,7 +13,7 @@
 /*Logo*/
 /*Main menu*/
 .header_area .main-menu .nav-item {
-    font: normal 500 15px/2px var(--chelsea);
+    font: normal 500 18px/2px var(--chelsea);
     padding: 1.6rem;
     color: var(--title-color);
 }
@@ -44,8 +44,8 @@
     font-size: 1.5rem;
 }
 .site-main .site-banner .banner-image > img{
-    padding: 6rem 0;
-    width: 80%;
+    padding: 6rem 0rem;
+    width: 70%;
 }
 
 /*Banner*/
