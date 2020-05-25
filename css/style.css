@@ -86,3 +86,21 @@
  height: auto;
 }
 /*Tech*/
+/*Profiles*/
+.site-main .profiles-area .profiles-title h2 > span{
+    padding: 2rem;
+    display: block;
+    font: normal bold 35px/ 60px var(--chelsea);
+    letter-spacing: 13px;
+}
+.site-main .profiles-area .text-regular{
+    padding: 2rem;
+    display: block;
+    font: normal bold 25px/ 40px var(--chelsea);
+    letter-spacing: 3px;
+}
+.site-main .profiles-area a{
+    padding: 0.8rem 2rem;
+    max-inline-size: 100%;
+}
+/*Profiles*/
