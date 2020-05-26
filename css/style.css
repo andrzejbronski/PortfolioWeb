@@ -7,8 +7,9 @@
     color: rgb(21, 146, 10);    
 }
 
-.header_area .main-menu .navbar{
-    padding: 1rem 6rem;
+.header_area .main-menu .navbar > img{
+    padding: 1rem;
+    width: 20%;
 }
 /*Logo*/
 /*Main menu*/
