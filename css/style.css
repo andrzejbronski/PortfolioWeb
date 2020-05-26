@@ -8,8 +8,8 @@
 }
 
 .header_area .main-menu .navbar > img{
-    padding: 1rem;
-    width: 20%;
+    
+    width: 13%;
 }
 /*Logo*/
 /*Main menu*/
@@ -45,14 +45,14 @@
     font-size: 1.5rem;
 }
 .site-main .site-banner .banner-image > img{
-    padding: 6rem 0rem;
-    width: 70%;
+    padding: 2rem 0rem;
+    width: 70%;   
 }
 
 /*Banner*/
 /*About*/
 .site-main .about-area{
-    padding: 8rem 5rem;
+    padding: 2rem;
 }
 .site-main .about-area .about-title h2 > span{
     display: block;
